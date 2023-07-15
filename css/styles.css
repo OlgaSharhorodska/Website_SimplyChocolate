@@ -1990,7 +1990,7 @@ iframe {
     margin-left: auto;
     margin-right: auto;
     background-color: var(--secondary-color);
-    background-image: url(/img/subscribe/Subcribe-mob.jpg);
+    background-image: url(../img/subscribe/Subcribe-mob.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -2003,7 +2003,7 @@ iframe {
 (min-resolution: 192dpi),
 (min-resolution: 2dppx) {
     .subscribe {
-        background-image: url(/img/subscribe/Subcribe-mob@2x.jpg);
+        background-image: url(../img/subscribe/Subcribe-mob@2x.jpg);
     }
 }
 
@@ -2015,7 +2015,7 @@ iframe {
 
 @media only screen and (min-width: 768px) {
     .subscribe {
-        background-image: url(/img/subscribe/Subcribe-tab.jpg);
+        background-image: url(../img/subscribe/Subcribe-tab.jpg);
         width: 768px;
     }
 
@@ -2023,14 +2023,14 @@ iframe {
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
         .subscribe {
-            background-image: url(/img/subscribe/Subcribe-tab@2x.jpg);
+            background-image: url(../img/subscribe/Subcribe-tab@2x.jpg);
         }
     }
 }
 
 @media only screen and (min-width: 1200px) {
     .subscribe {
-        background-image: url(/img/subscribe/Subcribe-desk.jpg);
+        background-image: url(../img/subscribe/Subcribe-desk.jpg);
         width: 1200px;
     }
 
@@ -2038,7 +2038,7 @@ iframe {
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
         .subscribe {
-            background-image: url(/img/subscribe/Subcribe-desk@2x.jpg);
+            background-image: url(../img/subscribe/Subcribe-desk@2x.jpg);
         }
     }
 }
